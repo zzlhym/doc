@@ -10,10 +10,13 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   
-   hello
+   :caption: Part 1:
+   1.rst
 
-   aps
+.. toctree::
+   :maxdepth: 2
+   :caption: Part 2:
+   2.rst
 
 
 
