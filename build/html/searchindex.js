@@ -1,1 +1,1 @@
-Search.setIndex({envversion:46,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:0,index:0,modul:0,page:0,search:0},titles:["Welcome to bito&#8217;s documentation!"],titleterms:{bito:0,document:0,indic:0,tabl:0,welcom:0}})
+Search.setIndex({envversion:46,filenames:["hello","index"],objects:{},objnames:{},objtypes:{},terms:{content:1,index:1,modul:1,page:1,search:1},titles:["hello,world","Welcome to bito&#8217;s documentation!"],titleterms:{bito:1,document:1,hello:0,indic:1,tabl:1,welcom:1,world:0}})
