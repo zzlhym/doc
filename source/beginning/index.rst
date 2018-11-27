@@ -8,7 +8,7 @@
 
     01_linux 
     02_ipython 
-    03_numpy
+   
 
 
 
